@@ -1,0 +1,7 @@
+2,simbha2,complex mall,delhi,8/4/2022,3pm to 6:30pm,250,200,199,1,1,sanjay singh,123456789,jhajhar,Admin,6/4/2022,250,1,2900299
+2,simbha2,complex mall,delhi,8/4/2022,3pm to 6:30pm,250,200,199,1,1,sanjay singh,123456789,jhajhar,Admin,6/4/2022,250,1,2900299
+2,simbha2,complex mall,delhi,8/4/2022,3pm to 6:30pm,250,200,200,1,1,sanjay singh,123456789,jhajhar,Admin,6/4/2022,250,1,2900299
+2,simbha2,complex mall,delhi,8/4/2022,3pm to 6:30pm,250,200,199,1,1,sanjay singh,123456789,jhajhar,Admin,6/4/2022,250,1,2900299
+2,simbha2,complex mall,delhi,8/4/2022,3pm to 6:30pm,250,200,198,1,1,sanjay singh,123456789,jhajhar,Admin,6/4/2022,250,1,2900299
+2,simbha2,complex mall,delhi,8/4/2022,3pm to 6:30pm,250,200,197,1,1,sanjay singh,123456789,jhajhar,Admin,6/4/2022,250,1,2900299
+2,simbha2,complex mall,delhi,8/4/2022,3pm to 6:30pm,250,200,196,1,1,sanjay singh,123456789,jhajhar,Admin,6/5/2022,1000,4,2036724060

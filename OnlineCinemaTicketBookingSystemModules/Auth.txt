@@ -1,0 +1,2 @@
+1,sanjay singh,12345,jhajhar,Admin,
+2,rahul singh,808080,jhajhar,customers,
